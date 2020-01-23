@@ -41,17 +41,17 @@
 "ActivityDate": "01-12-2020"
 },
 {
-"ClientID": "3", "ClientName": "Mary Wallace",
+"ClientID": "1", "ClientName": "Steve Smith",
 "ActivityType": "Requested CMA",
 "ActivityDate": "01-14-2020"
 },
 {
-"ClientID": "3", "ClientName": "Mary Wallace",
+"ClientID": "1", "ClientName": "Steve Smith",
 "ActivityType": "Logged in to client portal",
 "ActivityDate": "01-14-2020"
 },
 {
-"ClientID": "3", "ClientName": "Mary Wallace",
+"ClientID": "1", "ClientName": "Steve Smith",
 "ActivityType": "Viewed client analysis email",
 "ActivityDate": "01-14-2020"
 }
