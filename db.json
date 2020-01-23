@@ -1,0 +1,61 @@
+{
+
+  "Activities": [
+    {
+      "ClientID": "15", "ClientName": "Brian Murphy",
+      "ActivityType": "Viewed client analysis email",
+      "ActivityDate": "01-15-2020"
+    },
+    {
+      "ClientID": "13", "ClientName": "Molly Wallace",
+      "ActivityType": "Requested CMA",
+      "ActivityDate": "01-14-2020"
+    },
+    {
+      "ClientID": "13", "ClientName": "Molly Wallace",
+      "ActivityType": "Logged in to client portal",
+      "ActivityDate": "01-14-2020"
+    },
+    {
+      "ClientID": "13", "ClientName": "Molly Wallace",
+      "ActivityType": "Viewed client analysis email",
+      "ActivityDate": "01-14-2020"
+    },
+    {
+      "ClientID": "5", "ClientName": "Joan Murphy",
+      "ActivityType": "Logged in to client portal",
+      "ActivityDate": "01-14-2020"
+    },
+    {
+      "ClientID": "5", "ClientName": "Joan Murphy",
+      "ActivityType": "Viewed client analysis email",
+      "ActivityDate": "01-14-2020"
+    },
+    {
+      "ClientID": "8", "ClientName": "Sally Wallace",
+      "ActivityType": "Logged in to client portal",
+      "ActivityDate": "01-12-2020"
+    },
+    {
+      "ClientID": "8", "ClientName": "Sally Wallace",
+      "ActivityType": "Viewed client analysis email",
+      "ActivityDate": "01-12-2020"
+    },
+    {
+      "ClientID": "9", "ClientName": "Terry Jackson",
+      "ActivityType": "Requested CMA",
+      "ActivityDate": "01-14-2020"
+    },
+    {
+      "ClientID": "9", "ClientName": "Terry Jackson",
+      "ActivityType": "Logged in to client portal",
+      "ActivityDate": "01-14-2020"
+    },
+    {
+      "ClientID": "9", "ClientName": "Terry Jackson",
+      "ActivityType": "Viewed client analysis email",
+      "ActivityDate": "01-14-2020"
+    }
+  ]
+
+}
